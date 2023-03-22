@@ -32,3 +32,8 @@ To demo the application, please follow the steps below:
    This will start both the React application and the Java Spring Boot server.
 6. Head over to `http:localhost:3006` to check out the application.
 
+## Technicals
+
+This project is a Java conversion of the Github Manager that I pushed [here](https://github.com/farhan0167/github-manager). The purpose to write this in Java was to get hands on with Spring, and make the application more portable.
+
+All the code for the application can be found [here](https://github.com/farhan0167/git-manager-java/tree/main/file-manager/src/main/java/com/ahmadfarhanishraq/filemanager).
